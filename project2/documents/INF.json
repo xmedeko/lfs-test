@@ -1,0 +1,94 @@
+{
+  "id": "INF",
+  "guid": "fc8f2cd0-336b-4999-8a45-26402952fccc",
+  "lastId": 1,
+  "createdOn": "2022-11-09T11:40:28.160Z",
+  "createdBy": {
+    "name": "Ondrej Medek",
+    "email": "omedek@eccam.com",
+    "company": "Eccam"
+  },
+  "lastChangedOn": "2022-11-09T11:40:37.393Z",
+  "lastChangedBy": {
+    "name": "Ondrej Medek",
+    "email": "omedek@eccam.com",
+    "company": "Eccam"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "22a36f85-cb51-4b5c-98e6-68f5c73af0cd",
+      "heading": "Prvni",
+      "attachments": [
+        "INF-1_1_bmp_test.bmp"
+      ],
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Eccam",
+            "email": "omedek@eccam.com",
+            "name": "Ondrej Medek"
+          },
+          "changedOn": "2022-11-09T11:40:29.466Z",
+          "docId": "INF",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null
+          },
+          "changedBy": {
+            "company": "Eccam",
+            "email": "omedek@eccam.com",
+            "name": "Ondrej Medek"
+          },
+          "changedOn": "2022-11-09T11:40:31.808Z"
+        },
+        {
+          "addedAttachment": "INF-1_1_bmp_test.bmp",
+          "changedBy": {
+            "company": "Eccam",
+            "email": "omedek@eccam.com",
+            "name": "Ondrej Medek"
+          },
+          "changedOn": "2022-11-09T11:40:37.393Z"
+        }
+      ]
+    }
+  ],
+  "attributes": {
+  },
+  "view": {
+    "columns": [
+      {
+        "columnId": "id",
+        "hidden": false,
+        "width": 65
+      },
+      {
+        "columnId": "description",
+        "hidden": false,
+        "width": 500
+      },
+      {
+        "columnId": "attributes",
+        "hidden": true,
+        "width": 300
+      },
+      {
+        "columnId": "discussion",
+        "hidden": true,
+        "width": 300
+      },
+      {
+        "columnId": "links",
+        "hidden": true,
+        "width": 300
+      }
+    ]
+  },
+  "metadata": {
+    "format": "2.15"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "LFS test",
+  "documents": [
+    "INF.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.15",
+    "saveHistory": true
+  }
+}
